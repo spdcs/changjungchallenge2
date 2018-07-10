@@ -1,0 +1,2 @@
+git branch 告訴你目前在哪個branch
+git branch 分支名 
